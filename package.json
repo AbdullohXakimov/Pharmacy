@@ -1,0 +1,17 @@
+{
+  "name": "pharmacy",
+  "version": "1.0.0",
+  "description": "pharmacy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mr.Khakimov",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.9.1"
+  }
+}
